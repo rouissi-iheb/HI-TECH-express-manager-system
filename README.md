@@ -8,4 +8,8 @@ print bills<br>
 add costumers<br>
 list costumers<br>
 secure login system<br>
-
+installation : <br>
+1)create new database<br>
+2)execute the database.sql file in your new database<br>
+3)edit api/includes/classes/config.php for database connection<br>
+4)use admin/admin to login as admin<br>
